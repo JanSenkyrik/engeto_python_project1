@@ -3,7 +3,7 @@ projekt_1.py: First project for Engeto Python Academy
 
 author: Jan Senkyrik
 email: jansenkyrik@email.cz
-discord: Honza S.#8749
+discord: Honza Š.#8749
 """
 
 # Define the texts
