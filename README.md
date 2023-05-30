@@ -1,1 +1,1 @@
-# engeto_python_project1
+Engeto Python Academy - First Project
