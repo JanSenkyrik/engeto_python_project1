@@ -1,1 +1,1 @@
-Engeto Python Academy - First Project
+Engeto Python Academy - Text Analyser
